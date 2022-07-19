@@ -59,17 +59,16 @@ It should be possible to sort also alphanumeric content. Example:
 ...
 
     move "10" to my-table(1).
-    move  "6" to my-table(2).
-    move  "1" to my-table(3).
-    move  "2" to my-table(4).
-    move  "7" to my-table(5).
+    move "6"  to my-table(2).
+    move "1"  to my-table(3).
+    move "2"  to my-table(4).
+    move "7"  to my-table(5).
 
 ...
 
     | should print 
-    | 10  1  2  6  7
-    | because "10" is compared as alphanumeric to " 1" and other numbers. (Please notice the 
-    | blank before numbers lower then 10)
+    | 1  10 2  6  7
+    | because "10" is compared as alphanumeric to "1" and other numbers.
 ```
 
 ## Requirement 3
