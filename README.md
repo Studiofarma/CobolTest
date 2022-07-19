@@ -1,6 +1,6 @@
 # Cobol Test
 
-Implement a sorting algorithm of you choice (bubblesort, quicksort, heapsort, mergesort, selectionsort, insertionsort... or any other) in a reusable program.
+Implement a sorting algorithm of your choice (bubblesort, quicksort, heapsort, mergesort, selectionsort, insertionsort... or any other) in a reusable program.
 
 # Requirements
 
